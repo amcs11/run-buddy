@@ -1,0 +1,36 @@
+.hero {
+    background-position: bottom;
+    height: 250px;
+    text-align: center;
+    margin-bottom: 40px;
+  }
+.page-title {
+    color: #fce138;
+    display: inline-block;
+    border-bottom: 4px solid;
+    padding: 120px 80px 0 80px;
+    font-weight: normal;
+    font-size: 42px;
+    font-style: italic;
+}
+.secondary-content {
+    width: 80%;
+    margin: auto;
+    color: #024e76;
+}
+.secondary-content h3 {
+    font-size: 25px;
+    margin: 20px auto 20px auto;
+}
+.secondary-content p {
+    font-style: 16px;
+    line-height: 1.5;
+    margin: 15px auto 15px auto;
+}
+.secondary-content ul {
+    margin: 15px 20px 15px 20px;
+}
+.secondary-content li {
+    color: #39a6b2;
+    margin: 10px 0 10px 0;
+}
